@@ -1,2 +1,2 @@
 # team-amplifire
-"Be a rockstar!"
+"Be BE a rockstar!"
